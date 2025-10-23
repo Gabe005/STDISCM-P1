@@ -1,0 +1,7 @@
+# config.txt
+
+threads=16
+max=65536
+variant=4
+
+# 256, 65536
